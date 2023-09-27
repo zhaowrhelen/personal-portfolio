@@ -138,6 +138,88 @@ const About = () => {
         </div>
         <div className="separated" />
         <div className="title">
+          <h3>Education</h3>
+        </div>
+        <div className="resume-box">
+          <div className="resume-row">
+            <div className="row">
+              <div className="col-sm-3 col-md-3 col-xl-2">
+                <div className="rb-left">
+                  <img src="static/img/a1.png" title="" alt="" />
+                </div>
+              </div>
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>University of Southern California</h6>
+                  <label>
+                    Master of Science | Computer Science | Jan 2021 - Dec 2022
+                  </label>
+                  {/* <div className="rb-time">Full Time</div> */}
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row">
+            <div className="row">
+              <div className="col-sm-3 col-md-3 col-xl-2">
+                <div className="rb-left">
+                  <img src="static/img/a2.png" title="" alt="" />
+                </div>
+              </div>
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Kennesaw State University</h6>
+                  <label>
+                    Bachelor of Science | Computer Science | Jan 2018 - May 2020
+                  </label>
+                  {/* <div className="rb-time">Full Time</div> */}
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row">
+            <div className="row">
+              <div className="col-sm-3 col-md-3 col-xl-2">
+                <div className="rb-left">
+                  <img src="static/img/a3.png" title="" alt="" />
+                </div>
+              </div>
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Northeast Normal University</h6>
+                  <label>
+                    Bachelor of Science | Computer Science | Sep 2015 - June
+                    2020
+                  </label>
+                  {/* <div className="rb-time">Full Time</div> */}
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="separated" />
+        <div className="title">
           <h3>Experience.</h3>
         </div>
         <div className="resume-box">
