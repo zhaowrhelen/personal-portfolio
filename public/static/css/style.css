@@ -1639,7 +1639,7 @@ mark {
 }
 .resume-row .rb-right p {
   margin-bottom: 0;
-  max-width: 80%;
+  max-width: 95%;
 }
 @media (max-width: 991px) {
   .resume-row .rb-right p {

@@ -232,8 +232,10 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Software Engineer</h6>
+                  <label>
+                    Moo Housing Inc | Los Angeles, CA | Jan 2023 - Present
+                  </label>
                   <div className="rb-time">Full Time</div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -255,9 +257,12 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>Instruction Assistant</h6>
+                  <label>
+                    USC Marshall School of Business | Los Angeles, CA | Sep 2021
+                    - Dec 2022
+                  </label>
+                  <div className="rb-time">Part Time</div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                     sed do eiusmod tempor incididunt ut labore et dolore magna
@@ -278,15 +283,23 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>Undergraduate Research Assistant</h6>
+                  <label>
+                    Kennesaw State University | Marietta, GA | Jan 2020 - May
+                    2020
+                  </label>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    Did a thorough literature review on the HIPAA privacy rule
+                    and security rule.<br></br> Conducted the static, dynamic
+                    and HTTP analyses of mhealth app with MobSF, Genymation and
+                    SSL Labs. <br></br>Summarized the insecure evidence of
+                    mhealth app which poses high risk for customer data privacy.
+                    <br></br>
+                    Published Paper: Security and Privacy Analysis of Mhealth
+                    Application: A Case Study.(Accepted by TrustCom 2020’s
+                    Workshop of the 19th IEEE International Conference on Trust,
+                    Security and Privacy in Computing and Communications,
+                    Publication Date: December 29, 2020-January 1, 2021)
                   </p>
                 </div>
               </div>
